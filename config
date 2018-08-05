@@ -8,8 +8,8 @@
   "screenOff":true,
   "screenOn":true,
   
-  "ma":0.8,
-  "ch":0.8,
+  "ma":0.9,
+  "ch":0.9,
   
   "alternativeLink":"",
   "secondaryAlternativeLink":""
